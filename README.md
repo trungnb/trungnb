@@ -14,7 +14,7 @@ I am a clinical dentist transitioning into **Artificial Intelligence (AI) resear
 Currently, I am actively building open-source tools for dental AI and preparing for Ph.D. programs in Medical/Dental AI.
 
 ### 🔬 Research Focus & Interests
-* **3D Medical Imaging**: CBCT/CT scan segmentation, airway morphometrics, and craniofacial analysis.
+* **3D Medical Imaging**: CBCT/CT scan segmentation, airway morphometrics, crown-root ratios, CEJ mapping, and craniofacial analysis.
 * **Dental Artificial Intelligence**: Applying Large Language Models (LLMs) and Deep Learning (TotalSegmentator, GANs) to clinical diagnostics.
 * **Data Synthesis in Healthcare**: Privacy-preserving tabular data synthesis (CTGAN/ctdGAN) for medical research.
 
@@ -29,7 +29,8 @@ Currently, I am actively building open-source tools for dental AI and preparing 
 2. **Master's Thesis in R**: A comprehensive statistical analysis pipeline modeling upper airway dimensions in Obstructive Sleep Apnea, published in the *Vietnam Medical Journal* (2025).
 3. **Advanced Certifications**: Completed the prestigious **Writing in the Sciences** certification from Stanford University (Online).
 4. **3D Craniofacial Shape Analysis**: A high-throughput deep learning pipeline for automated segmentation of craniofacial structures and teeth from NIfTI files.
-5. **Medical Tabular Data Synthesis**: A privacy-preserving pipeline leveraging CTGAN & ctdGAN to generate synthetic demographic data for dental research.
+5. **Dental CEJ Morphometrics**: A quantitative Python workflow for algorithmic identification of the Cementoenamel Junction and crown-root ratios from 3D dental models.
+6. **Medical Tabular Data Synthesis**: A privacy-preserving pipeline leveraging CTGAN & ctdGAN to generate synthetic demographic data for dental research.
 
 ---
 *"Bridging the gap between clinical expertise and cutting-edge artificial intelligence."*
