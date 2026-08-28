@@ -25,12 +25,12 @@ Currently, I am actively building open-source tools for dental AI and preparing 
 * **Data Science**: Pandas, NumPy, Jupyter, SQLite
 
 ### 🚀 Highlighted Projects & Achievements
-1. **[PeriApicaI](https://periapical.ai.studio)**: An AI-powered dental periapical radiography training platform utilizing the Gemini AI model to analyze technical errors in X-ray films.
-2. **Master's Thesis in R**: A comprehensive statistical analysis pipeline modeling upper airway dimensions in Obstructive Sleep Apnea, published in the *Vietnam Medical Journal* (2025).
-3. **Advanced Certifications**: Completed the prestigious **Writing in the Sciences** certification from Stanford University (Online).
-4. **3D Craniofacial Shape Analysis**: A high-throughput deep learning pipeline for automated segmentation of craniofacial structures and teeth from NIfTI files.
-5. **Dental CEJ Morphometrics**: A quantitative Python workflow for algorithmic identification of the Cementoenamel Junction and crown-root ratios from 3D dental models.
-6. **Medical Tabular Data Synthesis**: A privacy-preserving pipeline leveraging CTGAN & ctdGAN to generate synthetic demographic data for dental research.
+1. **[PeriApicaI](https://periapical.ai.studio)**: An AI-powered dental periapical radiography training platform utilizing the Gemini AI model to analyze technical errors in X-ray films. *(Aug 2026)*
+2. **Master's Thesis in R**: A comprehensive statistical analysis pipeline modeling upper airway dimensions in Obstructive Sleep Apnea, published in the *Vietnam Medical Journal*. *(Jun 2025)*
+3. **3D Craniofacial Shape Analysis**: A high-throughput deep learning pipeline for automated segmentation of craniofacial structures and teeth from NIfTI files. *(May 2025)*
+4. **Medical Tabular Data Synthesis**: A privacy-preserving pipeline leveraging CTGAN & ctdGAN to generate synthetic demographic data for dental research. *(Apr 2025)*
+5. **Dental CEJ Morphometrics**: A quantitative Python workflow for algorithmic identification of the Cementoenamel Junction and crown-root ratios from 3D dental models. *(Jan 2025)*
+6. **Advanced Certifications**: Completed the prestigious **Writing in the Sciences** certification from Stanford University (Online). *(2025)*
 
 ---
 *"Bridging the gap between clinical expertise and cutting-edge artificial intelligence."*
