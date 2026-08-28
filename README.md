@@ -28,7 +28,7 @@ Currently, I am actively building open-source tools for dental AI and preparing 
 1. **[PeriApicaI](https://periapical.ai.studio)**: An AI-powered dental periapical radiography training platform utilizing the Gemini AI model to analyze technical errors in X-ray films. *(Aug 2026)*
 2. **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)**: A quantitative Python workflow for algorithmic identification of the Cementoenamel Junction and crown-root ratios from 3D dental models. *(Jul 2026)*
 3. **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)**: A high-throughput deep learning pipeline for automated segmentation of craniofacial structures and teeth from NIfTI files. *(Jul 2026)*
-4. **Medical Tabular Data Synthesis**: A privacy-preserving pipeline leveraging CTGAN & ctdGAN to generate synthetic demographic data for dental research. *(Jun 2026)*
+4. **[Medical Tabular Data Synthesis](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)**: A privacy-preserving pipeline leveraging CTGAN & ctdGAN to generate synthetic demographic data for dental research. *(Jun 2026)*
 5. **Master's Thesis in R**: A comprehensive statistical analysis pipeline modeling upper airway dimensions in Obstructive Sleep Apnea, published in the *Vietnam Medical Journal*. *(Sep 2025)*
 6. **Advanced Certifications**: Completed the prestigious **Writing in the Sciences** certification from Stanford University (Online). *(2025)*
 
