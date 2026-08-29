@@ -25,10 +25,10 @@ Driven by curiosity, I spend my time learning computer science, experimenting wi
 * **Data Science**: Pandas, NumPy, Jupyter, SQLite
 
 ### 🚀 Exploratory Projects & Achievements
-1. **[PeriApicaI](https://periapical.ai.studio)**: An experimental dental radiography training web app utilizing the Gemini AI model to analyze technical errors in X-ray films. *(Aug 2026)*
-2. **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)**: A proof-of-concept Python script exploring algorithmic identification of the Cementoenamel Junction and crown-root ratios from 3D dental models. *(Jul 2026)*
-3. **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)**: An experimental pipeline testing TotalSegmentator for deep learning segmentation of craniofacial structures and teeth from NIfTI files. *(Jul 2026)*
-4. **[Medical Tabular Data Synthesis](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)**: A pilot project exploring CTGAN to generate synthetic, privacy-preserving demographic data for dental research. *(Jun 2026)*
+1. **[PeriApicaI](https://periapical.ai.studio)**: Current dental training relies heavily on scarce instructor time. To solve this, I built an experimental web app leveraging Gemini AI to provide instant periapical error evaluations, demonstrating generative AI as a 24/7 virtual tutor. *(Aug 2026)*
+2. **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)**: Manual 3D measurements are tedious and error-prone. I wrote a proof-of-concept Python script to automatically detect the CEJ and calculate crown-root ratios, showing potential to standardize morphological research. *(Jul 2026)*
+3. **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)**: Anatomical studies are bottlenecked by slow manual segmentation. I piloted a deep learning pipeline using TotalSegmentator to automate craniofacial extraction, proving potential to drastically accelerate high-throughput data collection. *(Jul 2026)*
+4. **[Medical Tabular Data Synthesis](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)**: Strict privacy laws hinder open clinical data sharing. I experimented with CTGAN & ctdGAN to synthesize artificial, privacy-preserving demographic data, demonstrating a viable workaround for researchers. *(Jun 2026)*
 5. **Master's Thesis in R**: A statistical script developed to model upper airway dimensions in Obstructive Sleep Apnea, supporting a publication in the *Vietnam Medical Journal*. *(Sep 2025)*
 6. **Advanced Certifications**: Completed the **Writing in the Sciences** certification from Stanford University (Online) to improve research communication. *(2025)*
 
