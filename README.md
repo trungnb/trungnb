@@ -26,14 +26,14 @@ I am a dentist learning data science: I mostly use existing libraries on my own 
 * **Statistics (working level)**: R (dplyr, ggplot2; Wilcoxon, Fisher, Cliff's delta, ROC, ICC)
 * **Python (learning)**: pandas, scikit-learn, Jupyter notebooks; basic SQL
 * **Medical imaging**: CBCT airway analysis in Romexis Viewer, OnDemand3D and DTX Studio; 3D Slicer; TotalSegmentator
-* **AI-assisted work**: Google Gemini API; the PeriApicaI prototype was built with AI coding tools
+* **AI-assisted work**: Google Gemini API; the PeriApicaI prototype (AI-assisted development)
 
 ### 📚 Selected Publications
 1. Ngo, A.D., **Nguyen, B.T.**, Vo, C.H. and Lam, D.P. (2025) 'Anatomical morphology of the maxillary premolar alveolar bone in Vietnamese adults assessed by cone-beam computed tomography', *Vietnam Medical Journal*, 555(3), pp. 303–308. [doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172)
 2. **Nguyen, B.T.**, Vu, T.T.Q., Bui, D.K. and Lam, D.P. (2025) 'Upper airway dimensions on CBCT in Vietnamese subjects with and without obstructive sleep apnea: a case series', *Vietnam Medical Journal*, 553(3), pp. 267–272. [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486)
 
 ### 🚀 Exploratory Projects
-1. **[PeriApicaI](https://periapical.ai.studio)**: An experimental web prototype (built with AI coding tools; Google Gemini API) for AI-assisted feedback on periapical radiographs: film technical-error checks and candidate abnormality annotation for educational review. The output is advisory; the project is not clinically validated. *(Aug 2026)*
+1. **[PeriApicaI](https://periapical.ai.studio)**: An experimental web prototype (AI-assisted development; Google Gemini API) for AI-assisted feedback on periapical radiographs: film technical-error checks and candidate abnormality annotation for educational review. The output is advisory; the project is not clinically validated. *(Aug 2026)*
 2. **[Dental CEJ Morphometrics](https://drive.google.com/drive/folders/1IW2gQi0Azop_3Qrvm4e0FzrVchzdbBUQ?usp=sharing)**: Proof-of-concept Python notebooks on segmented 3D tooth data: PCA-based axis normalisation, HU profiling along the tooth axis, and crown/root ratio tables. A side project to learn the fundamentals of algorithmic feature extraction. *(Jul 2026)*
 3. **[3D Craniofacial Shape Analysis](https://drive.google.com/drive/folders/1M2Ebwdb7axTtll17ci1lYitd3eLlkHBu?usp=sharing)**: Exploratory Python notebooks using TotalSegmentator and NiBabel for NIfTI-based segmentation, structure-volume calculations, 2D projections, and Dice/IoU comparison. *(Jul 2026)*
 4. **[Medical Tabular Data Synthesis](https://drive.google.com/drive/folders/1qInNhtiGobzpOIexIhhCxGZT5zZTeWID?usp=sharing)**: Exploratory notebooks using mock demographic data to learn CTGAN/ctdGAN training and distributional evaluation. This project does not establish a privacy guarantee for clinical data. *(Jun 2026)*
