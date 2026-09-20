@@ -29,8 +29,8 @@ I am a dentist learning data science: I mostly use existing libraries on my own 
 * **AI-assisted work**: Google Gemini API; the PeriApicaI prototype (AI-assisted development)
 
 ### 📚 Selected Publications
-1. Ngo, A.D., **Nguyen, B.T.**, Vo, C.H. and Lam, D.P. (2025) 'Anatomical morphology of the maxillary premolar alveolar bone in Vietnamese adults assessed by cone-beam computed tomography', *Vietnam Medical Journal*, 555(3), pp. 303–308. [doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172)
-2. **Nguyen, B.T.**, Vu, T.T.Q., Bui, D.K. and Lam, D.P. (2025) 'Upper airway dimensions on CBCT in Vietnamese subjects with and without obstructive sleep apnea: a case series', *Vietnam Medical Journal*, 553(3), pp. 267–272. [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486)
+1. Ngo, A.D., **Nguyen, B.T.**, Vo, C.H. and Lam, D.P. (2025) 'Anatomical morphology of the maxillary premolar alveolar bone in Vietnamese adults assessed by cone-beam computed tomography', *Vietnam Medical Journal*, 555(3), pp. 303–308. [doi:10.51298/vmj.v555i3.16172](https://doi.org/10.51298/vmj.v555i3.16172).
+2. **Nguyen, B.T.**, Vu, T.T.Q., Bui, D.K. and Lam, D.P. (2025) 'Upper airway dimensions on CBCT in Vietnamese subjects with and without obstructive sleep apnea: a case series', *Vietnam Medical Journal*, 553(3), pp. 267–272. [doi:10.51298/vmj.v553i3.15486](https://doi.org/10.51298/vmj.v553i3.15486).
 
 ### 🚀 Exploratory Projects
 1. **[PeriApicaI](https://periapical.ai.studio)**: An experimental web prototype (AI-assisted development; Google Gemini API) for AI-assisted feedback on periapical radiographs: film technical-error checks and candidate abnormality annotation for educational review. The output is advisory; the project is not clinically validated. *(Aug 2026)*
