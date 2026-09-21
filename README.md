@@ -40,6 +40,9 @@ I am a dentist learning data science: I mostly use existing libraries on my own 
 5. **[Master's Thesis in R](https://trungnb.github.io/portfolio/portfolio-5-osa-airway-statistics/)**: Reproducible R workflow for group comparisons of upper-airway CBCT measurements in obstructive sleep apnea (11-subject case series), behind a paper in the *Vietnam Medical Journal*. *(Sep 2025)*
 6. **[Robot vs Monsters](https://github.com/trungnb/Game_project)**: A 2D arcade game in Python and Pygame, the capstone of the University of Helsinki Advanced Programming MOOC. *(2024)*
 
+### Recognition
+* **Top 500, AI Riser Vietnam 2026** — [Certificate of Completion](https://trungnb.github.io/files/AI_Riser_Vietnam_2026_Top_500_Nguyen_Bao_Trung.pdf) for my participation with **PeriApicaI**.
+
 ### 🎓 Courses
 * Data Analysis with Python, Advanced Course in Programming, Introduction to Programming: University of Helsinki (MOOC.fi)
 * Writing in the Sciences: Stanford Online
