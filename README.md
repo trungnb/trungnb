@@ -18,9 +18,9 @@ Dentist and researcher working on **CBCT, 3D dental imaging, quantitative analys
 ## Selected projects
 
 1. **[PeriApicaI](https://periapical.ai.studio)** — Experimental educational prototype for technical-quality assessment and candidate pathology overlays on periapical radiographs. Uses multimodal Gemini models with single/dual-model inference, provenance tracking, and human-review states; not clinically validated or a medical device.
-2. **[Crown–Root Transition Morphometrics](https://github.com/trungnb/Dental-CEJ-Morphometrics)** — Two-case CT prototype using outer-shell intensity profiles and a heuristic transition search to derive an intensity-based crown–root transition proxy; not anatomical CEJ localisation.
+2. **[Crown–Root Transition Morphometrics](https://github.com/trungnb/Crown-Root-Transition-Morphometrics)** — Two-case CT prototype using outer-shell intensity profiles and a heuristic transition search to derive an intensity-based crown–root transition proxy; not anatomical CEJ localisation.
 3. **[3D-to-2D Craniofacial Shape Analysis](https://github.com/trungnb/3D-Craniofacial-Pipeline)** — Two-CBCT proof-of-concept using segmented 3D masks and axial/coronal/sagittal maximum projections to examine same-scan repeatability, stored output size, and comparison time; not identification validation.
-4. **[ANSUR II Synthetic-Data Benchmark with CTGAN and ctdGAN](https://github.com/trungnb/Medical-CTGAN-Synthesis)** — ANSUR II benchmark (n=6,068): V1 combined statistical fidelity with TRTR/TSTR utility; V2 added a fixed real-data split, train-only feature selection, matched generator settings, five seeds, confidence intervals, baselines, and GitHub Actions.
+4. **[ANSUR II Synthetic-Data Benchmark with CTGAN and ctdGAN](https://github.com/trungnb/ANSUR-II-CTGAN-Benchmark)** — ANSUR II benchmark (n=6,068): V1 combined statistical fidelity with TRTR/TSTR utility; V2 added a fixed real-data split, train-only feature selection, matched generator settings, five seeds, confidence intervals, baselines, and GitHub Actions.
 5. **[Upper Airway Dimensions in OSA — R Analysis](https://trungnb.github.io/portfolio/portfolio-5-osa-airway-statistics/)** — Reproducible R workflow for an 11-subject CBCT case series, including group comparisons, effect-size exploration, and publication figures.
 
 ## Skills
