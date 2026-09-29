@@ -6,7 +6,7 @@ Dentist and researcher working on **CBCT, 3D dental imaging, quantitative analys
 
 ## Research focus
 
-- **CBCT and 3D morphometrics:** upper-airway, dentoalveolar, and craniofacial anatomy.
+- **CBCT and 3D morphometrics:** upper-airway, alveolar-bone, and craniofacial anatomy.
 - **Quantitative methods:** reproducible analysis and visualisation of imaging-derived measurements in R and Python.
 - **Exploratory AI:** multimodal radiograph review, medical-image segmentation, and synthetic tabular data.
 
